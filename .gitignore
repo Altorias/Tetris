@@ -33,4 +33,4 @@
 
 # Debug files
 *.cmake-build-debug/*
-*.build/*
+*.build/.*
