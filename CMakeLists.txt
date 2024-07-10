@@ -18,5 +18,7 @@ add_executable(Tetris src/main.cpp
         src/CGame.h
         src/CControl.cpp
         src/CControl.h
-        src/SelfDefine.h)
+        src/SelfDefine.h
+        src/CTetroMino.cpp
+        src/CTetroMino.h)
 
